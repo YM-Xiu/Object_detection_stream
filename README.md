@@ -7,9 +7,11 @@ This application is a real-time object detection system developed using Unity an
 ## Server side setting
 Upload ServerSideDetection.py to your server, and change the ip address to your own.
 
+Some python librarys would be needed. Please refer to the **import** area.
+
 ## Unity side setting
 
-Copy the entire repo to your local, use unity (2020) with android platform to open it as a project;
+Copy the entire repo to your local, use unity (**2020**) with android platform to open it as a project;
 
 In Asset/ServerCommunicator.cs, change the ip address into what you get from your server.
 
