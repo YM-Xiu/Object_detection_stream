@@ -1,4 +1,4 @@
-<img src="https://github.com/YM-Xiu/Object_detection_stream/blob/master/demo.png?raw=true" width="200">
+
 
 # Usage
 
@@ -18,5 +18,5 @@ In your server, run the ServerSideDetection.py;
 
 In unity/your android device (if you have built the project onto it), click the button to start/stop detection.
 
-![Demo](https://github.com/YM-Xiu/Object_detection_stream/blob/master/demo.png?raw=true)
+<img src="https://github.com/YM-Xiu/Object_detection_stream/blob/master/demo.png?raw=true" width="300">
 
