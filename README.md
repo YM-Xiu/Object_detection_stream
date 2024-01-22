@@ -15,3 +15,5 @@ In Asset/ServerCommunicator.cs, change the ip address into what you get from you
 In your server, run the ServerSideDetection.py;
 
 In unity/your android device (if you have built the project onto it), click the button to start/stop detection.
+
+![Demo](https://github.com/YM-Xiu/Object_detection_stream/blob/master/demo.png?raw=true)
